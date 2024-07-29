@@ -37,6 +37,11 @@ To run this application locally, follow these steps:
 
 ## Application Image
 
+## URLs
+https://github.com/alyssawink/e-commerce-backend
+
+https://watch.screencastify.com/v/Of51AjKjimg3gL36cfja
+
 ## License
 MIT
 
