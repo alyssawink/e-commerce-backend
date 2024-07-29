@@ -36,6 +36,7 @@ To run this application locally, follow these steps:
 - Use GET, POST, PUT, and DELETE requests to interact with the categories, products, and tags routes.
 
 ## Application Image
+![Screenshot 2024-07-29 at 6 09 10 PM](https://github.com/user-attachments/assets/10d52133-cd0d-47cf-b37e-fc4c180250ae)
 
 ## URLs
 https://github.com/alyssawink/e-commerce-backend
