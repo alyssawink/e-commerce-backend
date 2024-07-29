@@ -29,15 +29,6 @@ router.get('/:id', async (req, res) => {
   }
 });
 
-// Create a new product
-/* req.body should look like this...
-    {
-      “product_name”: "Basketball",
-      “price”: 200.00,
-      “stock”: 3,
-      “tagIds”: [1, 2, 3, 4]
-    }
-  */
 router.post('/', async (req, res) => {
   try {
     const product = await Product.create(req.body);
